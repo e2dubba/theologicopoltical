@@ -53,27 +53,19 @@ Political theology and race — 2011
 
 ### Book Selection
 
-    Remembering Esperanza : a cultural-political theology for North American praxis -- Mark Kline Taylor.​
-
-    Liberty, dominion, and the two swords : on the origins of Western political theology (180-398) -- Lester L. Field, Jr.​
-
-    The Scope of political theology -- edited by Alistair Kee.​
-
-    A reader in political theology – edited by Alistair Kee.​
-
-    The Church as polis : from political theology to theological politics as exemplified by JuÌˆrgen Moltmann and Stanley Hauerwas -- Arne Rasmusson.​
-
-    The politics of human frailty : theological defence of political liberalism -- Christopher J. Insole.​
-
-    Perspectives of a political ecclesiology -- edited by Johannes B. Metz.​
-
-    Liberation theology : human hope confronts Christian history and American power -- Rosemary Radford Ruether.​
-
-    Mysterium liberationis : fundamental concepts of liberation theology -- edited by Ignacio EllacuriÌa and Jon Sobrino.​
-
-    The king's two bodies; a study in mediaeval political theology, -- Ernst H. Kantorowicz.​
-
-    A genealogy of the corporation : articulating sovereign power and capitalism -- by Joshua Evdasin Barkan.​
+    Remembering Esperanza : a cultural-political theology for North American praxis -- Mark Kline Taylor.  
+    Liberty, dominion, and the two swords : on the origins of Western political theology (180-398) -- Lester L. Field, Jr.  
+    The Scope of political theology -- edited by Alistair Kee.  
+    A reader in political theology – edited by Alistair Kee.  
+    The Church as polis : from political theology to theological politics as exemplified by Jürgen Moltmann and Stanley Hauerwas -- Arne Rasmusson.  
+    The politics of human frailty : theological defence of political liberalism -- Christopher J. Insole.  
+    Perspectives of a political ecclesiology -- edited by Johannes B. Metz.  
+    Liberation theology : human hope confronts Christian history and American power -- Rosemary Radford Ruether.  
+    Mysterium liberationis : fundamental concepts of liberation theology -- edited by Ignacio Ellacuría and Jon Sobrino.
+The king's two bodies; a study in mediaeval political theology, -- Ernst H. Kantorowicz.
+A genealogy of the corporation : articulating sovereign power and capitalism -- by Joshua Evdasin Barkan.
+Religion and violence : philosophical perspectives from Kant to Derrida -- Hent de Vries.  
+In search of a global ethics : theological, political, and feminist perspectives based on a critical analysis of JPIC and WOMP -- Elisabeth Gerle.
 
 
 ### Key Topics And Their Contents 
@@ -81,6 +73,3 @@ Political theology and race — 2011
 
 
 ## Conclusion
-    Religion and violence : philosophical perspectives from Kant to Derrida -- Hent de Vries.​
-
-    In search of a global ethics : theological, political, and feminist perspectives based on a critical analysis of JPIC and WOMP -- Elisabeth Gerle.​
