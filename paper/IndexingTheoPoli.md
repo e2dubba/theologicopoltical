@@ -5,19 +5,30 @@ cataloged through the past 100 years.
 
 ## What is Political Theology? 
 
+Part of what makes political theology an interesting test case is how 
+variable it can be as a field of study. Political theology often describes 
+a number of quite various subfields and methodological approaches. We will 
+begin with a short discussion of some of the primary uses of the term. 
 
-“Theology is broadly understood as discourse about God, and human persons as
-they relate to God. The political is broadly understood as the use of
-structural power to organize a society or community of people… Political
-theology is, then, the analysis and criticism of political arrangements
-(including cultural-psychological, social and economic aspects) from the
-perspective of differing interpretations of God’s ways with the world."[@scott_blackwell_2013,1]
+Intersectionality or Interdisciplinarity 
 
+Political theology tends to include some sense of interesectionality or 
+intedisciplinarity, which we see signaled in its name as dealing with “theology” 
+and “politics” Cavanaugh and Scott offer this definition in the introduction 
+to the Blackwell Handbook to Political Theology: 
 
-“ever-changing relationships between political community and religious order,
-in short, between authority and salvation."[@vries_political_2009,25 This quote
-is modified, but originally found in Jan Assmann _Herrshaft und Heil_ (Carl
-Hanser Verlag: Múnchen 2000), 15]
+Theology is broadly understood as discourse about God, and human persons as they 
+relate to God. The political is broadly understood as the use of structural power 
+to organize a society or community of people… Political theology is, then, the 
+analysis and criticism of political arrangements (including cultural-psychological, 
+social and economic aspects) from the perspective of differing interpretations of 
+God’s ways with the world.1  
+
+Another commonly quoted definition, from Jan Assmann, also highlights the dual 
+aspect of the field: 
+
+“ever-changing relationships between political community and religious order, in 
+short, between authority and salvation.” 
 
 
 ## LCSH Authorities 
