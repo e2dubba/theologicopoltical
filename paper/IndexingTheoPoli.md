@@ -22,35 +22,70 @@ a number of quite various subfields and methodological approaches. We will
 begin with a short discussion of some of the primary uses of the term. 
 
 Political theology tends to include some sense of interesectionality or 
-intedisciplinarity, which we see signaled in its name as dealing with “theology” 
-and “politics” Cavanaugh and Scott offer this definition in the introduction 
-to the Blackwell Handbook to Political Theology: 
+intedisciplinarity, which we see signaled in its name as dealing with 
+“theology” and “politics” Cavanaugh and Scott offer this definition in the 
+introduction to the Blackwell Handbook to Political Theology: 
 
 > Quote Theology is broadly understood as discourse about God, and human persons 
-as they relate to God. The political is broadly understood as the use of structural 
-power to organize a society or community of people… Political theology is, then, the 
-analysis and criticism of political arrangements (including cultural-psychological, 
-social and economic aspects) from the perspective of differing interpretations of 
-God’s ways with the world.^[William T. Cavanaugh and Peter Scott, “Introduction” in *The Blackwell Companion to Political Theology* (Malden, MA: Blackwell, 2004), p. 1.]  
+as they relate to God. The political is broadly understood as the use of 
+structural power to organize a society or community of people… Political theology 
+is, then, the analysis and criticism of political arrangements (including 
+cultural-psychological, social and economic aspects) from the perspective of 
+differing interpretations of God’s ways with the world.^[William T. Cavanaugh and Peter Scott, “Introduction” in *The Blackwell Companion to Political Theology* (Malden, MA: Blackwell, 2004), p. 1.]  
 
 Another commonly quoted definition, from Jan Assmann, also highlights the dual 
 aspect of the field by understanding political theology as examing the "ever-
 changing relationships between political community and religious order, in short, 
 between authority and salvation.”^[Jan Assmann, *Herrschaft und Heil* (Carl Hanser Verlag, München 2000) 15. Quoted from Hent de Vries, *Political Theologies*, 25. translation slightly modified.]​ 
 
-On the other hand, political theology is often rooted in political practice itself by 
-means of association with a particular political stance, context, or end. The primary 
-example of this is liberation theology, which might also be associated with contextual 
-theologies such as black theology, Mujerista theology, Dalit theology, Minjung theology, 
-etc.
+On the other hand, political theology is often rooted in political practice 
+itself by means of association with a particular political stance, context, 
+or end. The primary example of this is liberation theology, which might also 
+be associated with contextual theologies such as black theology, Mujerista 
+theology, Dalit theology, Minjung theology, etc.
 
-Another older example of contextually situated political theology is Christian Socialism. 
-This designation was more common at the end of the 19th and beginning of the 20th century and 
-often corresponds with what we refer to today as political theology. Notably, the journal 
-Political Theology began life with the subtitle “a journal of Christian socialism,” although 
-it doesn’t include this anymore. ​
+Another older example of contextually situated political theology is Christian 
+Socialism. This designation was more common at the end of the 19th and beginning 
+of the 20th century and often corresponds with what we refer to today as political 
+theology. Notably, the journal *Political Theology* began life with the subtitle 
+“a journal of Christian socialism,” although it doesn’t include this anymore. ​
 
-## LCSH Authorities 
+Political theology is also defined in terms of a particular object of study, usually 
+one that offers a theological ground for political life: sovereignty, authority, 
+glory, legitimacy, etc.​
+
+Political theology is also very often engaged with liberalism and secularism because 
+both of these present a situation where the theological content of political life is 
+not explicit. Political theology is often opposed to liberalism and secularism, or 
+presented as a genealogical critique of them.​
+
+##Why Should We Think About Political Theology?
+
+First, it is an emerging field. While political theology has been around for a while, 
+over the past few decades it has experienced a significant surge in publications, new 
+journals, etc. It is important from the standpoint of collection development 
+librarianship to be aware of important new trends in theological fields, and topic 
+modelling and subject heading analysis can assist in better understanding new 
+developments.​
+
+As an interdisciplinary field, political theology often eludes clear-cut categorization. 
+A good deal of literature that is recognizable as political theology does not bear a 
+heading that says as much on the title page. ​
+
+Important literature in political theology often pre-dates description of them as such. 
+How do we interact with the metadata for these items?
+
+##Controlled Vocabularies
+
+In order to better understand the description of political theology literature, we will 
+examine three important controlled vocabularies: the Library of Congress Subject Heading 
+Authorities, the ATLA Religion Database (RDB) subject headings, and subject headings in 
+HathiTrust Collection.
+
+### LCSH Authorities 
+
+The LCSH Authorities provide a helpful diachronic look at description practices for 
+political theology because they 
 
 Liberation theology — 1986
 Secularization (Theology) — 1986
@@ -68,14 +103,14 @@ Postcolonial theology — 2010
 Public theology — 2010
 Political theology and race — 2011
 
-## Analysing Subject Classification 
+### Analysing Subject Classification 
 
 
 
-### Subject Headings in the Religion Database 
+#### Subject Headings in the Religion Database 
 
 
-### Subject Headings in the HathiTrust Data 
+#### Subject Headings in the HathiTrust Data 
 
 
 ## Topic Modeling 
