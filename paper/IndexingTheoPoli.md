@@ -95,21 +95,21 @@ continues along with variations (i.e., "in literature", or "and race"). "Public
 Theology" is also recognized as an important subject that is in many ways synonymous 
 with political theology.
 
-Liberation theology — 1986
-Secularization (Theology) — 1986
-Religion and politics — 1986 
-Christian Socialism — 1986
-Minjung theology — 1989
-Womanist Theology — 1994
-Mujerista theology — 1996
-Political theology — 1998
-Black theology — 2000
-Christian Sociology — 2003
-Social Gospel — 2005
-Liberation theology in literature — 2006
-Postcolonial theology — 2010
-Public theology — 2010
-Political theology and race — 2011
+* Liberation theology — 1986
+* Secularization (Theology) — 1986
+* Religion and politics — 1986 
+* Christian Socialism — 1986
+* Minjung theology — 1989
+* Womanist Theology — 1994
+* Mujerista theology — 1996
+* Political theology — 1998
+* Black theology — 2000
+* Christian Sociology — 2003
+* Social Gospel — 2005
+* Liberation theology in literature — 2006
+* Postcolonial theology — 2010
+* Public theology — 2010
+* Political theology and race — 2011
 
 ### Subject Headings in the Religion Database 
 
