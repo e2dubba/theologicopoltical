@@ -111,14 +111,10 @@ Postcolonial theology — 2010
 Public theology — 2010
 Political theology and race — 2011
 
-### Analysing Subject Classification 
+### Subject Headings in the Religion Database 
 
 
-
-#### Subject Headings in the Religion Database 
-
-
-#### Subject Headings in the HathiTrust Data 
+### Subject Headings in the HathiTrust Data 
 
 
 ## Topic Modeling 
