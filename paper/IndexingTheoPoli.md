@@ -85,7 +85,15 @@ HathiTrust Collection.
 ### LCSH Authorities 
 
 The LCSH Authorities provide a helpful diachronic look at description practices for 
-political theology because they 
+political theology because they include the year that each subject heading was 
+established. Below are fifteen important subject headings for political theology texts.
+While "Political Theology" itself is only added in 1998, important alternative 
+subject headings appear in the 1980s, especially "Liberation Theology" and "Religion
+and Politics." Throuhgout the 1990s, an increase in description of contextual
+theologies related to political theology is notable, and in the 2000s this trend 
+continues along with variations (i.e., "in literature", or "and race"). "Public
+Theology" is also recognized as an important subject that is in many ways synonymous 
+with political theology.
 
 Liberation theology — 1986
 Secularization (Theology) — 1986
@@ -138,3 +146,15 @@ In search of a global ethics : theological, political, and feminist perspectives
 
 
 ## Conclusion
+
+Especially in the case of a complicated ifficulties are present on both ends of the library ecosystem​
+
+Reference interviews will not always be clear-cut​
+
+The existing collection, perhaps even archival material, includes literature relevant to political theology that often isn't described as such​
+
+The taxonomical problem of understanding political theology begins with the task of controlled vocabulary and continues into the cataloging process​
+
+Interdisciplinary, broad, ambiguous, and changing, but still differentiable​
+
+There is more work to be done...​
