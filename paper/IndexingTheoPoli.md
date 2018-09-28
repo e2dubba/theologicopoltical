@@ -59,7 +59,7 @@ both of these present a situation where the theological content of political lif
 not explicit. Political theology is often opposed to liberalism and secularism, or 
 presented as a genealogical critique of them.​
 
-##Why Should We Think About Political Theology?
+## Why Should We Think About Political Theology?
 
 First, it is an emerging field. While political theology has been around for a while, 
 over the past few decades it has experienced a significant surge in publications, new 
@@ -75,7 +75,7 @@ heading that says as much on the title page. ​
 Important literature in political theology often pre-dates description of them as such. 
 How do we interact with the metadata for these items?
 
-##Controlled Vocabularies
+## Controlled Vocabularies
 
 In order to better understand the description of political theology literature, we will 
 examine three important controlled vocabularies: the Library of Congress Subject Heading 
