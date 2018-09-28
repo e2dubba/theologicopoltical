@@ -1,7 +1,18 @@
 # Indexing the Theologico-Political 
 
-In this paper we investigate how political theology has been indexed and
-cataloged through the past 100 years.
+Political theology is an important and growing field of theological research, 
+which has also attracted the attention of political scientists, philosophers, 
+and social theorists. This interest has led to different and often ambiguous 
+definitions of what political theology actually is. In addition, related 
+subfields like liberation theology, public theology, and critical theory are 
+often associated with political theology, making categorization challenging. 
+It is important that theological librarians understand the changing terrain 
+of theological-political inquiry in order to better provide access for their 
+research communities. 
+
+In this presentation we will share some preliminary explorations we've done in
+mining cataloged resources for subject headings related to political theology, 
+as well as fulltext of titles in Hathitrust for 
 
 ## What is Political Theology? 
 
@@ -22,13 +33,13 @@ relate to God. The political is broadly understood as the use of structural powe
 to organize a society or community of people… Political theology is, then, the 
 analysis and criticism of political arrangements (including cultural-psychological, 
 social and economic aspects) from the perspective of differing interpretations of 
-God’s ways with the world.1  
+God’s ways with the world.^[William T. Cavanaugh and Peter Scott, “Introduction” in *The Blackwell Companion to Political Theology* (Malden, MA: Blackwell, 2004), p. 1.]  
 
 Another commonly quoted definition, from Jan Assmann, also highlights the dual 
 aspect of the field: 
 
 “ever-changing relationships between political community and religious order, in 
-short, between authority and salvation.” 
+short, between authority and salvation.”^[Jan Assmann, *Herrschaft und Heil* (Carl Hanser Verlag, München 2000) 15. Quoted from Hent de Vries, *Political Theologies*, 25. translation slightly modified.]​ 
 
 
 ## LCSH Authorities 
