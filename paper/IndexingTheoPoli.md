@@ -117,28 +117,77 @@ with political theology.
 
 ### Subject Headings in the Religion Database 
 
+The Religion Database of ATLA provides a unique window into the application of
+these related subject headings to articles and essays that are indexed. 
+
+![Comparing three of the central political theology
+headings](AllThreePlotted.png)
+
+The general timeline of how the subject headings have been applied in to
+articles published in the various years shows the relative popularity of the
+topics in the material of the time. One curiosity is that Public Theology was
+added to the Religion Database before Political Theology, which accounts for
+its greater usage. 
+
+#### Subject Headings Associated with Political Theology 
+
+The five most common subject headings associated with Political Theology in
+the religion database are as follows:
+
+1. Politics and Christianity, 55
+2. Liberation theology, 24
+3. Public theology, 21
+4. Political science—Philosophy, 19
+5. Schmitt, Carl, 1888-1985, 15
+
+![An Association Wordcloud for Political Theology](PolitcalTheologyW.png)
+
+#### Subject Headings Associated with Public Theology
+
+The five most common subject headings associated with Public Theology in the
+religion database are as follows:
+
+1. Theology—Methodology, 114
+2. Politics and Christianity, 105
+3. Social ethics, Christian, 77
+4. Church and the world, 73
+5. Communication (Theology), 49
+
+![An Association Wordcloud for Public Theology](PublicTheologyW.png)
+
+#### Subject Headings Associated with Liberation Theology
+
+The five most common subject headings associated with Liberation Theology in
+the religion database are as follows:
+
+1. Theology—Methodology, 12
+2. Theology—Latin America, 112
+3. Poor and the church, 111
+4. Black theology, 110
+5. Theology, Contextual, 98
+
+![An Association Wordcloud for Liberation Theology](LiberationTheologyW.png)
 
 ### Subject Headings in the HathiTrust Data 
-
 
 ## Topic Modeling 
 
 
 ### Book Selection
 
-    Remembering Esperanza : a cultural-political theology for North American praxis -- Mark Kline Taylor.  
-    Liberty, dominion, and the two swords : on the origins of Western political theology (180-398) -- Lester L. Field, Jr.  
-    The Scope of political theology -- edited by Alistair Kee.  
-    A reader in political theology – edited by Alistair Kee.  
-    The Church as polis : from political theology to theological politics as exemplified by Jürgen Moltmann and Stanley Hauerwas -- Arne Rasmusson.  
-    The politics of human frailty : theological defence of political liberalism -- Christopher J. Insole.  
-    Perspectives of a political ecclesiology -- edited by Johannes B. Metz.  
-    Liberation theology : human hope confronts Christian history and American power -- Rosemary Radford Ruether.  
-    Mysterium liberationis : fundamental concepts of liberation theology -- edited by Ignacio Ellacuría and Jon Sobrino.
-The king's two bodies; a study in mediaeval political theology, -- Ernst H. Kantorowicz.
-A genealogy of the corporation : articulating sovereign power and capitalism -- by Joshua Evdasin Barkan.
-Religion and violence : philosophical perspectives from Kant to Derrida -- Hent de Vries.  
-In search of a global ethics : theological, political, and feminist perspectives based on a critical analysis of JPIC and WOMP -- Elisabeth Gerle.
+- Remembering Esperanza : a cultural-political theology for North American praxis -- Mark Kline Taylor.  
+- Liberty, dominion, and the two swords : on the origins of Western political theology (180-398) -- Lester L. Field, Jr.  
+- The Scope of political theology -- edited by Alistair Kee.  
+- A reader in political theology – edited by Alistair Kee.  
+- The Church as polis : from political theology to theological politics as exemplified by Jürgen Moltmann and Stanley Hauerwas -- Arne Rasmusson.  
+- The politics of human frailty : theological defence of political liberalism -- Christopher J. Insole.  
+- Perspectives of a political ecclesiology -- edited by Johannes B. Metz.  
+- Liberation theology : human hope confronts Christian history and American power -- Rosemary Radford Ruether.  
+- Mysterium liberationis : fundamental concepts of liberation theology -- edited by Ignacio Ellacuría and Jon Sobrino.
+- The king's two bodies; a study in mediaeval political theology, -- Ernst H. Kantorowicz.
+- A genealogy of the corporation : articulating sovereign power and capitalism -- by Joshua Evdasin Barkan.
+- Religion and violence : philosophical perspectives from Kant to Derrida -- Hent de Vries.  
+- In search of a global ethics : theological, political, and feminist perspectives based on a critical analysis of JPIC and WOMP -- Elisabeth Gerle.
 
 
 ### Key Topics And Their Contents 
