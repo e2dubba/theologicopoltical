@@ -140,7 +140,7 @@ the religion database are as follows:
 4. Political science—Philosophy, 19
 5. Schmitt, Carl, 1888-1985, 15
 
-![An Association Wordcloud for Political Theology](PolitcalTheologyW.png)
+![An Association Wordcloud for Political Theology](PoliticalTheologyW.png)
 
 #### Subject Headings Associated with Public Theology
 
